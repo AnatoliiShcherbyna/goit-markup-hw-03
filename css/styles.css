@@ -54,6 +54,7 @@ button {
 }
 .top-nav {
   display: flex;
+  align-items: center;
 }
 
 .nav-content {
@@ -72,10 +73,8 @@ button {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  align-items: center;
-
-  padding-top: 24px;
 }
+
 .logo-part {
   color: #2e2f42;
 }
